@@ -1,0 +1,3 @@
+# SPL Token details
+- mint tx: vdRxqVfofJ4urnYZgedXswZUqNPNboXUzdfmgdqiQJWRiR3JC773iTDLgpANYMsKoCDcj3RpxcFm1jLznqcXgc3
+- transfer tx: 2Y5MABVYEPgR6MeE8oHBg6M17NK1Do9uQkcpyHhzpgCyvK8ha6g3rUSbhnE2vun3U4c3yHD2qqEKbjzcrBmJoqC4

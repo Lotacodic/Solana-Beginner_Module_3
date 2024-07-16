@@ -14,7 +14,9 @@
   "author": "gyanlakshmi@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "@solana/spl-token": "^0.2.0",
-    "@solana/web3.js": "^1.47.3"
+    "@solana-developers/helpers": "^2.3.0",
+    "@solana/spl-token": "^0.4.8",
+    "@solana/web3.js": "^1.47.3",
+    "dotenv": "^16.4.5"
   }
 }
